@@ -1,5 +1,7 @@
 # ActualRamCleaner
 Will actually clean your ram, but its limited because nowadays Os's already manage ram usage
+Vai limpar sua ram, mas hoje em dia e limitado por causa que os sistemas ja monitoram ram e limpam automaticamente.
+
 
 # 💾 RAM Cleaner v2.1 — C++
 
